@@ -4,15 +4,53 @@
 
 🎓 Master's in Artificial Intelligence
 
-🎨 Learning UI/UX Design
+💻 Learning Front-End Development & WordPress
 
-🌐 Learning Front-End & WordPress Development
+🎨 Passionate about UI/UX Design
+
+🤖 Exploring Artificial Intelligence & Machine Learning through real-world projects
 
 📚 Currently improving my English
 
+---
+
+## Skills
+
+- HTML
+- CSS
+- WordPress
+- Elementor
+- Figma
+- Adobe XD
+- Adobe Photoshop
+- Git
+- GitHub
+- Python (Learning)
+- Machine Learning (Learning)
+---
+
 ## Current Goals
 
-- Build modern websites
-- Create portfolio projects
-- Improve my design and development skills
-- Continue learning Artificial Intelligence
+- Build modern and user-friendly websites
+- Improve my Front-End development skills
+- Develop AI & Machine Learning projects
+- Create high-quality portfolio projects
+- Continue learning and growing as a developer
+
+---
+
+## Featured Projects
+
+🫀 Heart Disease AI Project
+
+🧠 Heart Disease Model Comparison
+
+📊 Machine Learning Projects
+
+---
+
+## Connect with Me
+
+Website: Coming Soon
+
+LinkedIn: [Coming Soon](https://www.linkedin.com/in/roya-hajimalek-982723179/)
