@@ -51,6 +51,8 @@
 
 ## Connect with Me
 
-Website: Coming Soon
+🌐 Website: Coming Soon
 
-LinkedIn: [Coming Soon](https://www.linkedin.com/in/roya-hajimalek-982723179/)
+💼 LinkedIn: https://www.linkedin.com/in/roya-hajimalek-982723179/
+
+🐙 GitHub: https://github.com/RoyaHajimalek
